@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddd58610.css",
-    "main.js": "/static/js/main.1bb7f67a.js",
-    "static/media/LOGO_HE_VINCI.png": "/static/media/LOGO_HE_VINCI.1a68aa669046a6430359.png",
-    "index.html": "/index.html",
-    "main.ddd58610.css.map": "/static/css/main.ddd58610.css.map",
-    "main.1bb7f67a.js.map": "/static/js/main.1bb7f67a.js.map"
+    "main.css": "/module1ReactDeploy/static/css/main.ddd58610.css",
+    "main.js": "/module1ReactDeploy/static/js/main.6143720f.js",
+    "static/media/LOGO_HE_VINCI.png": "/module1ReactDeploy/static/media/LOGO_HE_VINCI.1a68aa669046a6430359.png",
+    "index.html": "/module1ReactDeploy/index.html",
+    "main.ddd58610.css.map": "/module1ReactDeploy/static/css/main.ddd58610.css.map",
+    "main.6143720f.js.map": "/module1ReactDeploy/static/js/main.6143720f.js.map"
   },
   "entrypoints": [
     "static/css/main.ddd58610.css",
-    "static/js/main.1bb7f67a.js"
+    "static/js/main.6143720f.js"
   ]
 }
